@@ -1,1 +1,2 @@
-"# MagicAI" 
+# MagicAI
+
